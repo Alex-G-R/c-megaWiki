@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lesson_25___Static_Methods_and_Classes
+{
+    static class UsefulTools
+    {
+        public static void SayHi(string name)
+        {
+            Console.WriteLine("Hello " + name);
+
+        }
+
+    }
+}
