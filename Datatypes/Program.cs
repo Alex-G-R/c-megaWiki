@@ -10,7 +10,7 @@ namespace Data_types
     {
         static void Main(string[] args)
         {
-            string fraza = "Kochama C#";
+            string fraza = "fuck C#";
             char literka = 'A';
             // Literka w Char trzeba zapisać w 'x' a nie w "x"
 
